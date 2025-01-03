@@ -1,0 +1,22 @@
+# Node.js dependencies
+node_modules/
+
+# Next.js build output
+.next/
+
+# Environment files
+.env.local
+.env.development
+.env.production
+
+# Lockfiles
+package-lock.json
+yarn.lock
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# MacOS-specific files
+.DS_Store

@@ -1,0 +1,21 @@
+{
+  "name": "farcaster-frame",
+  "version": "1.0.0",
+  "description": "A Farcaster frame for Monte Carlo simulation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@farcaster/frame-sdk": "^0.0.24",
+    "chart.js": "^4.4.7",
+    "next": "^13.4.9",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
